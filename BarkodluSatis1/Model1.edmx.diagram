@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="aefa95271e4f44f8a7b639cc4899322e" Name="Diagram1">
+        <EntityTypeShape EntityType="Database1Model.Urun" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Database1Model.Terazii" Width="1.5" PointX="2.625" PointY="0.75" />
+        <EntityTypeShape EntityType="Database1Model.HizliUrun" Width="1.5" PointX="4.5" PointY="0.75" />
+        <EntityTypeShape EntityType="Database1Model.Islem" Width="1.5" PointX="4.5" PointY="2.75" />
+        <EntityTypeShape EntityType="Database1Model.IslemOzet" Width="1.5" PointX="2.625" PointY="2.625" />
+        <EntityTypeShape EntityType="Database1Model.Satis" Width="1.5" PointX="6.25" PointY="0.75" />
+        <EntityTypeShape EntityType="Database1Model.UrunGrup" Width="1.5" PointX="4.5" PointY="4.375" />
+        <EntityTypeShape EntityType="Database1Model.Barkod" Width="1.5" PointX="8" PointY="0.75" />
+        <EntityTypeShape EntityType="Database1Model.StokHareket" Width="1.5" PointX="8" PointY="2.25" />
+        <EntityTypeShape EntityType="Database1Model.Sabit" Width="1.5" PointX="6.25" PointY="4.875" />
+        <EntityTypeShape EntityType="Database1Model.Kullanici" Width="1.5" PointX="0.75" PointY="4.625" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
